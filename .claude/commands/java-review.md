@@ -1,7 +1,7 @@
 ---
-name: code-review
-description: 用于对本地 Java 代码进行严格的代码规范、NPE 及异常捕获审查
-argument-hint: [文件路径/Git分支/留空默认全局]
+name: "java-review"
+description: "用于对本地 Java 代码进行严格的代码规范、NPE 及异常捕获审查"
+argument-hint: "[文件路径/Git分支/留空默认全局]"
 ---
 
 # Role
